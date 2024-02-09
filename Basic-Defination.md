@@ -13,12 +13,18 @@ applications to improve their performance over time.
 
 ### What is deep learning?:
 ```
-Deep learning is a type of machine learning and artificial intelligence (AI) that imitates the way humans gain certain types of knowledge. Deep learning models can be taught to perform classification tasks and recognize patterns in photos, text, audio and other various data. It is also used to automate tasks that would normally need human intelligence, such as describing images or transcribing audio files.
+Deep learning is a type of machine learning and artificial intelligence (AI) that imitates 
+the way humans gain certain types of knowledge. Deep learning models can be taught to perform 
+classification tasks and recognize patterns in photos, text, audio and other various data. 
+It is also used to automate tasks that would normally need human intelligence, 
+such as describing images or transcribing audio files.
 ```
 
 ### What is Supervised Machine Learning?:
 ```
-Supervised learning is the types of machine learning in which machines are trained using well "labelled" training data, and on basis of that data, machines predict the output. The labelled data means some input data is already tagged with the correct output.
+Supervised learning is the types of machine learning in which machines are trained using 
+well "labelled" training data, and on basis of that data, machines predict the output. 
+The labelled data means some input data is already tagged with the correct output.
 
 In supervised learning, the training data provided to the machines work as the supervisor that teaches the machines to predict the output correctly. It applies the same concept as a student learns in the supervision of the teacher.
 ```
@@ -60,7 +66,11 @@ Spam or Not Spam, cat or dog, etc. Classes can be called as targets/labels or ca
 
 ### What is Regression analysis?:
 ```
-Regression analysis is a statistical method to model the relationship between a dependent (target) and independent (predictor) variables with one or more independent variables. More specifically, Regression analysis helps us to understand how the value of the dependent variable is changing corresponding to an independent variable when other independent variables are held fixed. It predicts continuous/real values such as temperature, age, salary, price, etc.
+Regression analysis is a statistical method to model the relationship between 
+a dependent (target) and independent (predictor) variables with one or more independent variables. More specifically, Regression analysis helps us to understand how the value of the dependent
+variable is changing corresponding to an independent variable when other independent 
+variables are held fixed. It predicts continuous/real values 
+such as temperature, age, salary, price, etc.
 ```
 
 ### What is Clustering in Machine Learning?
