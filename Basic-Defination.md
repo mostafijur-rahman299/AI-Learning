@@ -26,7 +26,9 @@ Supervised learning is the types of machine learning in which machines are train
 well "labelled" training data, and on basis of that data, machines predict the output. 
 The labelled data means some input data is already tagged with the correct output.
 
-In supervised learning, the training data provided to the machines work as the supervisor that teaches the machines to predict the output correctly. It applies the same concept as a student learns in the supervision of the teacher.
+In supervised learning, the training data provided to the machines work as 
+the supervisor that teaches the machines to predict the output correctly. 
+It applies the same concept as a student learns in the supervision of the teacher.
 ```
 
 ### What is Unsupervised Learning?:
@@ -67,7 +69,9 @@ Spam or Not Spam, cat or dog, etc. Classes can be called as targets/labels or ca
 ### What is Regression analysis?:
 ```
 Regression analysis is a statistical method to model the relationship between 
-a dependent (target) and independent (predictor) variables with one or more independent variables. More specifically, Regression analysis helps us to understand how the value of the dependent
+a dependent (target) and independent (predictor) variables with one or more 
+independent variables. More specifically, Regression analysis helps us to understand 
+how the value of the dependent
 variable is changing corresponding to an independent variable when other independent 
 variables are held fixed. It predicts continuous/real values 
 such as temperature, age, salary, price, etc.
