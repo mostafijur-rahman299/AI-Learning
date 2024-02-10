@@ -6,7 +6,11 @@ especially computer systems.
 
 ### What is Machine Learning?:
 ```
-Machine Learning, often abbreviated as ML, is a subset of artificial intelligence (AI) that focuses on the development of computer algorithms that improve automatically through experience and by the use of data. In simpler terms, machine learning enables computers to learn from data and make decisions or predictions without being explicitly programmed to do so.
+Machine Learning, often abbreviated as ML, is a subset of artificial intelligence (AI) 
+that focuses on the development of computer algorithms that improve automatically 
+through experience and by the use of data. In simpler terms, machine learning enables 
+computers to learn from data and make decisions or predictions without being explicitly 
+programmed to do so.
 ```
 
 ### What is deep learning?:
@@ -17,7 +21,11 @@ classification tasks and recognize patterns in photos, text, audio and other var
 It is also used to automate tasks that would normally need human intelligence, 
 such as describing images or transcribing audio files.
 
-Deep learning is a type of machine learning that teaches computers to perform tasks by learning from examples, much like humans do. Imagine teaching a computer to recognize cats: instead of telling it to look for whiskers, ears, and a tail, you show it thousands of pictures of cats. The computer finds the common patterns all by itself and learns how to identify a cat. This is the essence of deep learning.
+Deep learning is a type of machine learning that teaches computers to perform tasks by 
+learning from examples, much like humans do. Imagine teaching a computer to 
+recognize cats: instead of telling it to look for whiskers, ears, and a tail, 
+you show it thousands of pictures of cats. The computer finds the common patterns all 
+by itself and learns how to identify a cat. This is the essence of deep learning.
 
 In technical terms, deep learning uses something called "neural networks," which are inspired by the human brain. These networks consist of layers of interconnected nodes that process information. The more layers, the "deeper" the network, allowing it to learn more complex features and perform more sophisticated tasks.
 
@@ -36,11 +44,19 @@ It applies the same concept as a student learns in the supervision of the teache
 
 ### What is Unsupervised Learning?:
 ```
-Unsupervised learning is a type of machine learning that learns from unlabeled data. This means that the data does not have any pre-existing labels or categories. The goal of unsupervised learning is to discover patterns and relationships in the data without any explicit guidance.
+Unsupervised learning is a type of machine learning that learns from unlabeled data. 
+This means that the data does not have any pre-existing labels or categories. 
+The goal of unsupervised learning is to discover patterns and relationships 
+in the data without any explicit guidance.
 
-Unsupervised learning is the training of a machine using information that is neither classified nor labeled and allowing the algorithm to act on that information without guidance. Here the task of the machine is to group unsorted information according to similarities, patterns, and differences without any prior training of data. 
+Unsupervised learning is the training of a machine using information that is neither classified nor 
+labeled and allowing the algorithm to act on that information without guidance. Here the task 
+of the machine is to group unsorted information according to similarities, patterns, 
+and differences without any prior training of data. 
 
-Unlike supervised learning, no teacher is provided that means no training will be given to the machine. Therefore the machine is restricted to find the hidden structure in unlabeled data by itself. 
+Unlike supervised learning, no teacher is provided that means no training will be 
+given to the machine. Therefore the machine is restricted to find the hidden structure 
+in unlabeled data by itself. 
 ```
 
 ### What is Semi-Supervised Learning?:
