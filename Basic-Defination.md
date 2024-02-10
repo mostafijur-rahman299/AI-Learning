@@ -27,7 +27,11 @@ recognize cats: instead of telling it to look for whiskers, ears, and a tail,
 you show it thousands of pictures of cats. The computer finds the common patterns all 
 by itself and learns how to identify a cat. This is the essence of deep learning.
 
-In technical terms, deep learning uses something called "neural networks," which are inspired by the human brain. These networks consist of layers of interconnected nodes that process information. The more layers, the "deeper" the network, allowing it to learn more complex features and perform more sophisticated tasks.
+In technical terms, deep learning uses something called "neural networks," 
+which are inspired by the human brain. These networks consist of layers of 
+interconnected nodes that process information. 
+The more layers, the "deeper" the network, allowing it to learn more complex 
+features and perform more sophisticated tasks.
 
 ```
 
