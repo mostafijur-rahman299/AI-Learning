@@ -1,5 +1,8 @@
 ```sql
--- CREATE TABLE groceries(id INTEGER PRIMARY KEY, name text, quantity INTEGER);
+-- Creating table
+-- Create Table groceries(id INTEGER PRIMARY KEY, name text, quantity integer);
+
+-- Insert Data into table
 -- INSERT INTO groceries VALUES(1, "Banana", 24);
 -- INSERT INTO groceries VALUES(2, "Apple", 12);
 -- INSERT INTO groceries VALUES(4, "Apple", 12);
