@@ -66,3 +66,16 @@ SELECT type, SUM(calories) AS total_calories FROM exercise_logs GROUP BY type HA
 SELECT type FROM exercise_logs GROUP BY type HAVING COUNT(*) >= 2;
 
 ```
+
+### WHEN/CASE
+```sql
+SELECT COUNT(*), type, heart_rate,
+    CASE 
+        WHEN heart_rate > 220-30 THEN "above max"
+        WHEN heart_rate > ROUND(0.90 * (220-30)) THEN "above target"
+        WHEN heart_rate > ROUND(0.50 * (220-30)) THEN "within target"
+        ELSE "below target"
+    END as "hr_zone"
+FROM exercise_logs
+GROUP BY hr_zone;
+```
